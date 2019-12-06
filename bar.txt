@@ -1,1 +1,2 @@
 bar new
+line 2
