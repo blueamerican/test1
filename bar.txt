@@ -1,2 +1,4 @@
 bar new
 line 2
+bar to develop
+into develop
