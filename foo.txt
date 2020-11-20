@@ -1,14 +1,1 @@
 this is foo
-line
-line2
-line4
-änderung clone
-änderung neu neu sadsa
-änderung pull
-commit phpstorm
-phpstorm again
-test
-fetch
-cxvvcx
-xcy
-sssssssssssssss
