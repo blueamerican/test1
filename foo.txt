@@ -1,1 +1,2 @@
-this is foocp
+this is foo
+news
