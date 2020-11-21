@@ -1,2 +1,3 @@
 this is foo
 merge 2
+merg 3
