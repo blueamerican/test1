@@ -1,0 +1,7 @@
+Asdasdwqreerwt
+<<<<<<< .merge_file_a10524
+for merge1
+line 31
+=======
+for merge1 dfsdf
+>>>>>>> .merge_file_a03192
